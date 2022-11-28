@@ -14,7 +14,7 @@ def acg_fireworks(request):
     </head>
     <body style='background-color:#060C59;'>
     <h1 style='padding-top:100px;font-size:48px;color:white;text-align:center;'>Expect Dazzling Content from...<br>
-        <img src='https://raw.githubusercontent.com/linuxacademy/content-gc-serverless/master/cloud-functions-demo/assets/acg-logo.png' alt='A Cloud Guru'></h1>
+        <img src='https://raw.githubusercontent.com/linuxacademy/content-gc-serverless/master/cloud-functions-demo/assets/acg-logo.png' alt='Dev Ops Guild'></h1>
     <div class='demo'>
     </div>
     <script src='https://code.jquery.com/jquery-3.1.1.min.js'></script>
