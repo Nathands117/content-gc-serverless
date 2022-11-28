@@ -13,8 +13,8 @@ def acg_fireworks(request):
     </style>
     </head>
     <body style='background-color:#060C59;'>
-    <h1 style='padding-top:100px;font-size:48px;color:white;text-align:center;'>Expect Dazzling Content from...<br>
-        <img src='https://raw.githubusercontent.com/linuxacademy/content-gc-serverless/master/cloud-functions-demo/assets/acg-logo.png' alt='Dev Ops Guild'></h1>
+    <h1 style='padding-top:100px;font-size:48px;color:white;text-align:center;'>Dev Ops Guild Content from Nathan...<br>
+        <img src='https://github.com/Nathands117/content-gc-serverless/blob/master/cloud-functions-demo/assets/fireworks-colors-night-sky-stock-image-black-background-233389298.png' alt='Dev Ops Guild'></h1>
     <div class='demo'>
     </div>
     <script src='https://code.jquery.com/jquery-3.1.1.min.js'></script>
