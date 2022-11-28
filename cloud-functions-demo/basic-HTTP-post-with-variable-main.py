@@ -12,5 +12,5 @@ def greetings_http(request):
     return '<html><head></head>\
         <body style="background-color:#060C59;"><div style="height:100%;background-repeat:no-repeat;background-position:center;\
         background-image:url(https://raw.githubusercontent.com/linuxacademy/content-gc-serverless/master/cloud-functions-demo/assets/acg-logo.png);">\
-        <h1 style="padding-top:100px;font-size:48px;color:white;text-align:center;">Greetings from A Cloud Guru, {}!</h1>\
+        <h1 style="padding-top:100px;font-size:48px;color:white;text-align:center;">Congratulations Dev Ops guild, {}!</h1>\
         </div></body></html>'.format(escape(name))
