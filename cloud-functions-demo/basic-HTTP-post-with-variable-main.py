@@ -11,6 +11,6 @@ def greetings_http(request):
         name = 'my friend'
     return '<html><head></head>\
         <body style="background-color:#060C59;"><div style="height:100%;background-repeat:no-repeat;background-position:center;\
-        background-image:url(https://raw.githubusercontent.com/linuxacademy/content-gc-serverless/master/cloud-functions-demo/assets/acg-logo.png);">\
+        background-image:url(https://github.com/Nathands117/content-gc-serverless/blob/master/cloud-functions-demo/assets/fireworks-colors-night-sky-stock-image-black-background-233389298.png);">\
         <h1 style="padding-top:100px;font-size:48px;color:white;text-align:center;">Congratulations Dev Ops guild, {}!</h1>\
         </div></body></html>'.format(escape(name))
