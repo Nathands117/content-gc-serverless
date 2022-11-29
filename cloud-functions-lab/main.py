@@ -1,4 +1,4 @@
-def acg_fireworks(request):
+def fireworks(request):
     return """
     <!doctype html>
     <html>
